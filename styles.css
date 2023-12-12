@@ -1,0 +1,33 @@
+body{
+    background-color: lightgoldenrodyellow;
+    position: fixed;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+#title{
+    font-family:'Courier New', Courier, monospace;
+    font-size: 14vw;
+    text-align: center;
+}
+
+.time{
+    font-family:'Courier New', Courier, monospace;
+    font-size: 5vw;
+    text-align: center;
+}
+.date{
+    font-family:'Courier New', Courier, monospace;
+    font-size: 3vw;
+    text-align: center;
+}
+
+.format-switch-btn{
+    font-family:'Courier New', Courier, monospace;
+    font-size: 3vw;
+    text-align: center;
+    border-color: grey;
+    display: block;
+    margin: auto;
+    margin-top: 10%;
+}
